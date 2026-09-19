@@ -1,0 +1,23 @@
+# Environment & Secrets
+.env
+.env.local
+
+# Python cache & build
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# Vector storage cache
+storage/
+
+# IDE files
+.vscode/
+.idea/
